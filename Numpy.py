@@ -83,7 +83,7 @@ print("This is the example of adding two matrices")
 for i in range(len(matrix_1)):
     for j in range(len(matrix_1[0])):
         result[i][j] = matrix_1[i][j] + matrix_2[i][j]
-for r in result:
+for r in result: 
     print(r)
 
 print("-----------------------------------------------------")

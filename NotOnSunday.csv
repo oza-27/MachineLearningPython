@@ -1,0 +1,30 @@
+"   train_number                              train_name  ... departure arrival
+2         22201  KOLKATA SEALDAH - PURI Duronto Express  ...     20:00   04:00
+
+[1 rows x 6 columns]"	"   train_number                                    train_name  ... departure arrival
+4         22206  MADURAI - CHENNAI CENTRAL AC Duronto Express  ...     22:40   07:20
+
+[1 rows x 6 columns]"	"   train_number  ... arrival
+7         12437  ...   10:25
+
+[1 rows x 6 columns]"
+"   train_number                              train_name  ... departure arrival
+2         22201  KOLKATA SEALDAH - PURI Duronto Express  ...     20:00   04:00
+
+[1 rows x 6 columns]"	"   train_number                                    train_name  ... departure arrival
+4         22206  MADURAI - CHENNAI CENTRAL AC Duronto Express  ...     22:40   07:20
+
+[1 rows x 6 columns]"	"   train_number  ... arrival
+7         12437  ...   10:25
+
+[1 rows x 6 columns]"
+"   train_number                              train_name  ... departure arrival
+2         22201  KOLKATA SEALDAH - PURI Duronto Express  ...     20:00   04:00
+
+[1 rows x 6 columns]"	"   train_number                                    train_name  ... departure arrival
+4         22206  MADURAI - CHENNAI CENTRAL AC Duronto Express  ...     22:40   07:20
+
+[1 rows x 6 columns]"	"   train_number  ... arrival
+7         12437  ...   10:25
+
+[1 rows x 6 columns]"
